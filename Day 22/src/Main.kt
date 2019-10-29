@@ -7,7 +7,6 @@ fun main(args: Array<String>) {
 
     val stringPrinter = Printer<String>()
     stringPrinter.printArray(strings)
-
 }
 
 class Printer<T> {
